@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Navbar */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a{
+   text-decoration: none;
+}
+.button{
+    background-color: red;
+    padding:2px 5px 2px 5px;
+    border: none;
+    border-radius: 6px;
+    font-size: medium;
+    width: 50px;
+}
+.button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+#navbar{
+    display: flex;
+    margin: auto;
+    padding: 15px 3% 15px 3%;
+    width: 90%;
+}
+#navbar .a{
+    color: black;
+    margin-right: 10px;
+}
