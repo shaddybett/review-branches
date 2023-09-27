@@ -20,7 +20,7 @@ body {
     width: 50px;
 }
 .button:hover{
-    background-color: blue;
+    background-color: green;
     cursor: pointer;
 }
 #navbar{
@@ -30,6 +30,6 @@ body {
     width: 90%;
 }
 #navbar .a{
-    color: black;
+    color: blue;
     margin-right: 10px;
 }
